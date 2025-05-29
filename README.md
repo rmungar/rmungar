@@ -1,5 +1,20 @@
 ## Hi there 👋
 
+
+
+
+
+
+
+
+
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/rmungar/TFG)
+
+
+
+
+
+
 <!--
 **rmungar/rmungar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
