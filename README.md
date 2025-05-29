@@ -1,6 +1,7 @@
 ## 👤 About Me
 
   **Hey there!**
+  
   I'm a junior full-stack developer that really enjoys backend over frontend, but I still do both. 
   
   Here is some personal info:
