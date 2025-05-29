@@ -1,5 +1,10 @@
 ## 👤 About Me
 
+  **Hey there!**
+  I'm a junior full-stack developer that really enjoys backend over frontend, but I still do both. 
+  
+  Here is some personal info:
+  
 - 🕛 Age: 19
 - 💼 Currently: Student at IES Rafael Alberti
 - 📖 Academic background: Technological Baccalaureate, Higher Vocational Cualification In Cross-Platform Application Development, C1 English Cualification Certified by Cambridge
@@ -22,6 +27,7 @@
   <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white" />
   <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" />
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
