@@ -7,6 +7,7 @@
 - 🔭 I like to create well built, structured and functional applications
 - 🚀 Interests: Gaming and Backend developing
 - 🌱 Currently learning: Rust, Game Networking, NeoVim
+- ▶️ Projects in progress / collaborating: Personal OS & Pokemon fangame
 - ⚡ Fun fact: My favourite pokemon is Slither Wing
 
 
