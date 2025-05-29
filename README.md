@@ -1,10 +1,13 @@
 ## 👤 About Me
 
+- 🕛 Age: 19
 - 💼 Currently: Student at IES Rafael Alberti
+- 📖 Academic background: Technological Baccalaureate, Higher Vocational Cualification In Cross-Platform Application Development, C1 English Cualification Certified by Cambridge
 - 🧭 Aspiring: Game Developer / Backend Engineer / Full-Stack Wizard (If I ever start liking Frontend)
-- 🔭 I like to create well built, structured and functional applications 
+- 🔭 I like to create well built, structured and functional applications
+- 🚀 Interests: Gaming and Backend developing
 - 🌱 Currently learning: Rust, Game Networking, NeoVim
-- 💬 Ask me about: GDScript, Kotlin, Rust — or building cross-platform apps
+- ⚡ Fun fact: My favourite pokemon is Slither Wing
 
 
 ### 🧠 Languages
@@ -59,6 +62,7 @@
 
 ### 🧰 Other Tools
 <div align="center">
+  <img src = "https://img.shields.io/badge/GitBook-%23000000.svg?style=for-the-badge&logo=gitbook&logoColor=white" />
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E" />
   <img src="https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13" />
