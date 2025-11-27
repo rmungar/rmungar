@@ -6,7 +6,7 @@
   
   Here is some personal info:
   
-- 🕛 Age: 19
+- 🕛 Age: 20
 - 💼 Currently: Student at IES Rafael Alberti
 - 📖 Academic background: Technological Baccalaureate, Higher Vocational Cualification In Cross-Platform Application Development, C1 English Cualification Certified by Cambridge
 - 🧭 Aspiring: Game Developer / Backend Engineer / Full-Stack Wizard (If I ever start liking Frontend)
