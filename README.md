@@ -6,7 +6,7 @@
   
   Here is some personal info:
   
-- 🕛 Age: 20
+- 🕛 Age: 21
 - 💼 Currently: Student at IES Rafael Alberti
 - 📖 Academic background: Technological Baccalaureate, Higher Vocational Cualification In Cross-Platform Application Development, C1 English Cualification Certified by Cambridge
 - 🧭 Aspiring: Game Developer / Backend Engineer / Full-Stack Wizard (If I ever start liking Frontend)
@@ -14,7 +14,7 @@
 - 🚀 Interests: Gaming and Backend developing
 - 🌱 Currently learning: Rust, Game Networking, NeoVim
 - ▶️ Projects in progress / collaborating: Personal OS & Pokemon fangame
-- ⚡ Fun fact: My favourite pokemon is Slither Wing
+- ⚡ Fun fact: My favourite pokemon is Clodsire
 
 
 ## 🧠 Languages
