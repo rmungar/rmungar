@@ -7,12 +7,12 @@
   Here is some personal info:
   
 - 🕛 Age: 21
-- 💼 Currently: Student at IES Rafael Alberti
+- 💼 Currently: AI - Big Data Student at IES Rafael Alberti
 - 📖 Academic background: Technological Baccalaureate, Higher Vocational Cualification In Cross-Platform Application Development, C1 English Cualification Certified by Cambridge
 - 🧭 Aspiring: Game Developer / Backend Engineer / Full-Stack Wizard (If I ever start liking Frontend)
 - 🔭 I like to create well built, structured and functional applications
 - 🚀 Interests: Gaming and Backend developing
-- 🌱 Currently learning: Rust, Game Networking, NeoVim
+- 🌱 Currently learning: Rust, NeoVim, Regex, Ruby
 - ▶️ Projects in progress / collaborating: Personal OS & Pokemon fangame
 - ⚡ Fun fact: My favourite pokemon is Clodsire
 
